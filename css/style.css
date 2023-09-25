@@ -1,0 +1,9 @@
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: #1e3f1c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('images/elon.jpg');
+}
